@@ -1,3 +1,1 @@
-# CloudReps
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/bCodes22/CloudReps)
+This is a work in process of the frontend of Cloud Reps
